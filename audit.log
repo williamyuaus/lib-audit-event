@@ -1,0 +1,12 @@
+1|2|sourceClientId|sourceAppName|targetAppName|dc2061df-cf4c-4763-8cd3-3b2514c7f320|workflow|description|2022-12-22 17:47:41.332
+1|2|sourceClientId|sourceAppName|targetAppName|88aef62b-51d4-406e-9557-2a6da8c4b9f6|UPLOAD_DATASET|description|2022-12-22 17:49:07.618
+1|2|sourceClientId|sourceAppName|targetAppName|bb8eed05-8f8b-4fd9-b719-f30207962529|UPLOAD_DATASET|description|2022-12-22 17:49:59.981
+1|2|sourceClientId|sourceAppName|targetAppName|c8a89102-8fde-4a78-b7a7-7be6a249a9f7|UPLOAD_DATASET|description|2022-12-22 18:07:15.758
+1|2|sourceClientId|sourceAppName|targetAppName|034f1b0b-7cb7-4899-bfa6-c51140165e86|UPLOAD_DATASET|description|2022-12-22 23:29:42.97
+1|2|TEST1.2.3.4.5|BATCHAGENT|DATASET-SVC|97bafbd8-8b75-40b2-b8f9-a67eacfda097|UPLOAD_DATASET|description|2022-12-22 23:33:23.381
+1|2|TEST1.2.3.4.5|BATCHAGENT|DATASET-SVC|38970e1a-15c9-4044-ba7c-a1456f434613|UPLOAD_DATASET|description|2022-12-22 23:46:12.865
+1|2|TEST1.2.3.4.5|BATCHAGENT|DATASET-SVC|fdb5abf9-951e-4d76-a7d6-680eb6070de2|UPLOAD_DATASET|description|2023-01-04 11:33:11.261
+1|2|TEST1.2.3.4.5|null|null|null|null|null|null
+(EventId,e5fc9263-68f4-49e7-a8d7-2f48af337c35)
+eventId:e4afe109-5d7e-4244-9662-e611ae8183c7|sourceClientId:TEST1.2.3.4.5|sourceAppName:BATCHAGENT|targetAppName:DATASET-SVC|targetServiceId:70098868-bc64-4d85-84e9-fe6d4e2f0fba|workflow:UPLOAD_DATASET|description:description|createdTime:2023-01-05 13:08:37.801
+{"eventId":"a56bc6e5-4e7e-43d6-80ef-d214f93ae2b1","workflow":"UPLOAD_DATASET","targetAppName":"DATASET-SVC","targetServiceId":"b2ecb19c-b3dc-4792-9e95-01f583730e33","description":"description","createdTime":"2023-01-05 13:27:37.244","sourceAppName":"BATCHAGENT","sourceClientId":"TEST1.2.3.4.5"}
